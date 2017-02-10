@@ -3,12 +3,12 @@
 ## Paradigma Orientado a Objetos
 
 ### Classe (Automoveis)
-[Java] (https://github.com/leandrobmarinho/disciplina-banco-de-dados/blob/master/SQL/empresa.sql)
+[Java] (https://github.com/leandrobmarinho/disciplina-linguagens_prog/tree/master/Automoveis)
 
 ### Herança (Sistema Bancário)
-[C++] (https://github.com/leandrobmarinho/disciplina-banco-de-dados/blob/master/SQL/consultas_empresa.sql)
-[Java] (https://github.com/leandrobmarinho/disciplina-banco-de-dados/blob/master/SQL/consultas_empresa.sql)
+[C++] (https://github.com/leandrobmarinho/disciplina-linguagens_prog/tree/master/SistemaBancario)
+[Java] (https://github.com/leandrobmarinho/disciplina-linguagens_prog/tree/master/SistemaBancario_java)
 
 ### Polimorfismo (Sistema Bancário)
-[C++] (https://github.com/leandrobmarinho/disciplina-banco-de-dados/blob/master/SQL/consultas_empresa.sql)
-[Java] (https://github.com/leandrobmarinho/disciplina-banco-de-dados/blob/master/SQL/consultas_empresa.sql)
+[C++] (https://github.com/leandrobmarinho/disciplina-linguagens_prog/tree/master/SistemaBancario)
+[Java] (https://github.com/leandrobmarinho/disciplina-linguagens_prog/tree/master/SistemaBancario_java)
