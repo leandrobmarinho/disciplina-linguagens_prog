@@ -1,4 +1,4 @@
-# Disciplina Linguagem de Programação (IFCE)
+# Disciplina de Linguagens de Programação (IFCE)
 
 ## Paradigma Orientado a Objetos
 
